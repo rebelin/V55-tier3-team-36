@@ -12,7 +12,7 @@ you like the best.
 
 | Project Idea | Description | Brittany | Maya | Alina | Lindsay | Rebecca | teammate name |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| First idea | Description | | | | | | |
-| Second idea | Description | | | | | | |
+| Pet Travel | An app for pet owners who love to travel. Make travel easy with suggestions/recommendations for a pet-friendly trip.| | | | | | |
+| My Little Library | Keep track of your books in your own pocket library. | | | | | | |
 | ... | Description | | | | | | |
 | Last idea | Description | | | | | | |
